@@ -1,5 +1,5 @@
 var Typed = new Typed(".extra",{
-    strings: ["Java","DSA in java","c programming language","Frontend development"],
+    strings: ["Java","DSA in java","c sharp","Python","Web development","SQL","MongoDb"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 100,
